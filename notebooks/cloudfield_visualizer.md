@@ -24,9 +24,9 @@ Data is from a large eddy simulation of trade cumulus clouds.
 
 ## link to data file
 
-The netcdf file:  bomex_qv_qn.nc -- 527 Mbytes
+The netcdf file:  bomex_qv_qn.nc -- 137 Mbytes
 
-[https://drive.google.com/file/d/1E0IORCCpZUGaMClbv2m4YFfiM34kC1FY/view?usp=sharing](https://drive.google.com/file/d/1E0IORCCpZUGaMClbv2m4YFfiM34kC1FY/view?usp=sharing)
+[https://drive.google.com/file/d/15xu91HdzUMo1B7_XT43YRHMeqlw_CNYC/view?usp=sharing](https://drive.google.com/file/d/15xu91HdzUMo1B7_XT43YRHMeqlw_CNYC/view?usp=sharing)
 
 ```{code-cell} ipython3
 import xarray as xr
